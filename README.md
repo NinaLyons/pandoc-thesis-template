@@ -3,7 +3,7 @@ pandoc-thesis-template
 
 A template for creating a degree project thesis in markdown + pandoc
 
-## Example of what you can generate EASILY
+## Example of what you can generate EASILY!!
 
 Here is the type of PDF thesis document you can easily generate using this repository template:
 
